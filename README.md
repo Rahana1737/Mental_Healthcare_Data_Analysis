@@ -85,7 +85,6 @@ This project focuses on analyzing mental healthcare data collected across differ
 * Scatter plot displaying LowCI vs HighCI relationship
 * Heatmap showing correlations between numerical variables
 
-*(Screenshots of plots can be added here if required.)*
 
 ### 7. Files Included
 
