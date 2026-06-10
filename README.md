@@ -91,11 +91,11 @@ This project focuses on analyzing mental healthcare data collected across differ
 
 * **[Mental_Health_Care_in_the_Last_4_Weeks.csv](https://github.com/Rahana1737/Mental_Healthcare_Data_Analysis/blob/main/Mental_Health_Care_in_the_Last_4_Weeks.csv)** – Raw dataset
 * **[mental_health_analysis.ipynb](https://github.com/Rahana1737/Mental_Healthcare_Data_Analysis/blob/main/Mental_Healthcare%20Data_Analysis%20Project.ipynb)** – Analysis and visualizations
-* **README.md** – Project description and usage instructions
+* **[README.md](https://github.com/Rahana1737/Mental_Healthcare_Data_Analysis/blob/main/README.md)** – Project description and usage instructions
 
 ### 8. How to Use
 
-1. Open **mental_health_analysis.ipynb** using Jupyter Notebook or JupyterLab.
+1. Open **[mental_health_analysis.ipynb](https://github.com/Rahana1737/Mental_Healthcare_Data_Analysis/blob/main/Mental_Healthcare%20Data_Analysis%20Project.ipynb)** using Jupyter Notebook or JupyterLab.
 2. Run the notebook cells step by step to view:
 
    * Data loading
